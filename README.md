@@ -1,4 +1,4 @@
-# Challenge Bootstrap v4.5.3 grid
+# Challenge Bootstrap Grid v4.5.3
 
 bootstrap-grid
 
